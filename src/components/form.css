@@ -1,0 +1,15 @@
+.field::placeholder{
+    color: rgb(110, 110, 110);
+}
+.container{
+    height: 700px;
+    min-width: 320px;
+}
+
+.container-two{
+    height: 670px;    
+    border-bottom-left-radius: 35px !important;
+    border-bottom-right-radius: 35px !important;
+    
+}
+
